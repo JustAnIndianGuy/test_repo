@@ -4,3 +4,4 @@ My name is Abhi Ladukodi
 The equation 10 * 10 = 100 is true
 This is a test file located in the documents folder
 The date of this file's creation is 9/8/2020
+This file was created during class two of the CW internship
